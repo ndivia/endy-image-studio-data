@@ -1,5 +1,4 @@
 window.ndiviaStylePresets = [
-[
   {
     "id": "anime-glamour-cinematic",
     "name": "Anime Glamour Cinematic",
@@ -246,5 +245,4 @@ window.ndiviaStylePresets = [
     "positive": "monumental mythic surrealism, dark ritual, retro sci-fi, colossal sacred machinery, occult technology, alien ceremonial architecture, tiny human figures, cosmic dread, analog science fiction",
     "negative": "cute fantasy, modern sleek sci-fi, mundane machinery, close-up portrait focus, small scale, glossy corporate futurism, cheerful palette, casual everyday setting"
   }
-]
 ];
