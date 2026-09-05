@@ -1,3 +1,4 @@
+window.ndiviaStylePresets = [
 [
   {
     "id": "anime-glamour-cinematic",
@@ -246,3 +247,4 @@
     "negative": "cute fantasy, modern sleek sci-fi, mundane machinery, close-up portrait focus, small scale, glossy corporate futurism, cheerful palette, casual everyday setting"
   }
 ]
+];
