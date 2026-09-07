@@ -494,7 +494,7 @@ window.ndiviaStylePresets = [
     "previewScene": "character"
   },
   {
-    "id": "candid-scatto-rubato",
+    "id": "candid-unposed-photography",
     "name": "Candid / Unposed Photography",
     "positive": "candid photography, stolen moment, spontaneous pose, imperfect framing, natural gesture, environmental portrait, unposed moment",
     "negative": "studio pose, fashion catalogue pose, perfect symmetry, rigid posture, direct staged gaze, artificial lighting, overpolished composition, mannequin expression",
