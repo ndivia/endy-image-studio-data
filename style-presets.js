@@ -210,6 +210,30 @@ window.ndiviaStylePresets = [
     "negative": "childlike age coding, photorealism, realistic proportions, soft volumetric shading, painterly blending, plain costume, weak silhouette, subdued decoration"
   },
   {
+    "id": "ilya-kuvshinov-hybrid-realism-crisp",
+    "name": "Ilya Kuvshinov Hybrid Realism — Crisp",
+    "positive": "ilya kuvshinov hybrid realism crisp, refined anime semi-realism, crisp selective realism, clean facial planes, refined adult anime features, controlled linework, sharp shape definition, selective soft rendering, realistic anatomy, sculpted hair locks, clean silhouette, subtle skin modeling, cinematic polish, controlled tonal transitions",
+    "negative": "photorealism, generic anime face, chibi proportions, soft airbrushed anime rendering, excessive painterly blending, muddy facial planes, plastic skin, blurry contours, flat cel-only shading, heavy comic outlines, over-smoothed hair, exaggerated anatomy"
+  },
+  {
+    "id": "poetic-strip-style",
+    "name": "Poetic Strip Style",
+    "positive": "poetic strip style, poetic narrative illustration, refined adult anime-comic character design, delicate organic linework, elegant simplified anatomy, expressive eyes, subtle facial expressions, natural gestures, restrained cel shading, selective soft tonal transitions, harmonious controlled palette, atmospheric simplicity, narrative negative space, quiet cinematic composition, understated emotional storytelling, polished editorial comic finish",
+    "negative": "photorealism, hyper-detailed rendering, heavy black outlines, explosive pop-comic composition, extreme hard cel shading, glossy 3D rendering, excessive painterly blending, neon saturation, chibi childlike proportions, melodramatic expressions, cluttered backgrounds, excessive visual effects"
+  },
+  {
+    "id": "clean-line-pencil-sketch",
+    "name": "Clean Line + Pencil Sketch",
+    "positive": "clean line plus pencil sketch, clean line art, refined anime-comic linework, precise static contours, selective pencil sketch accents, visible underdrawing accents, controlled sketch texture, expressive contour construction, dynamic pencil strokes, clean facial rendering, refined facial linework, expressive motion lines, selective rough edges, polished sketch hybrid, line-based illustration",
+    "negative": "full painterly rendering, heavy ink masses, photorealism, fully rough sketch, uniformly messy linework, soft airbrushed rendering, excessive cel shading, muddy contours, uniform pencil texture everywhere, invisible lineart, glossy 3D finish"
+  },
+  {
+    "id": "painted-sketch-concept-art",
+    "name": "Painted Sketch / Concept Art",
+    "positive": "painted sketch, concept art illustration, anime-comic concept art, digital gouache feel, dry-brush texture, broad painterly color masses, irregular softened edges, selective sketch lines, expressive contour fragments, visible underdrawing accents, atmospheric brushwork, soft facial modeling through light and color, reduced hard ink contours, dynamic hair strokes, textured background, warm cinematic color interaction, controlled unfinished energy, painterly materiality",
+    "negative": "hard uniform ink contours, perfectly clean vector lineart, flat cel-only rendering, glossy polished anime finish, photorealism, plastic skin, smooth airbrushed rendering, sterile digital surfaces, uniform sharp edges, excessive graphic cleanliness, rigid contour separation"
+  },
+  {
     "id": "1990s-dark-fantasy-anime-gothic-western",
     "name": "1990s Dark Fantasy Anime / Gothic Western Anime",
     "positive": "1990s dark fantasy anime, gothic western aesthetic, hand-drawn cel animation, traditional anime linework, large solid black shadow masses, sparse cel shading, limited color palette, vintage hand-painted anime background",
