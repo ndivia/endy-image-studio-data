@@ -1,7 +1,7 @@
 window.ndiviaStylePresets = [
 
   // ============================================================================
-  // CINEMATIC ANIME & SELECTIVE REALISM
+  {// CINEMATIC ANIME & SELECTIVE REALISM},
   // ============================================================================
 
   {
