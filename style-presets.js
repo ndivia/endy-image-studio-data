@@ -273,9 +273,9 @@ window.ndiviaStylePresets = [
     "previewScene": "character"
   },
   {
-    "id": "ilya-kuvshinov-hybrid-realism-crisp",
-    "name": "Ilya Kuvshinov Hybrid Realism — Crisp",
-    "positive": "ilya kuvshinov hybrid realism crisp, refined anime semi-realism, crisp selective realism, clean facial planes, refined adult anime features, controlled linework, sharp shape definition, selective soft rendering, realistic anatomy, sculpted hair locks, clean silhouette, subtle skin modeling, cinematic polish, controlled tonal transitions",
+    "id": "ilyku-hybrid-realism-crisp",
+    "name": "Ilyku Hybrid Realism — Crisp",
+    "positive": "ilyku hybrid realism crisp, refined anime semi-realism, crisp selective realism, clean facial planes, refined adult anime features, controlled linework, sharp shape definition, selective soft rendering, realistic anatomy, sculpted hair locks, clean silhouette, subtle skin modeling, cinematic polish, controlled tonal transitions",
     "negative": "photorealism, generic anime face, chibi proportions, soft airbrushed anime rendering, excessive painterly blending, muddy facial planes, plastic skin, blurry contours, flat cel-only shading, heavy comic outlines, over-smoothed hair, exaggerated anatomy",
     "category": "Anime · Cel & Hybrid Rendering",
     "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/main/style-previews/ilya-kuvshinov-hybrid-realism-crisp.webp?v=1",
