@@ -9,8 +9,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cinematic",
       "Anime glamour"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "atmospheric-glamour-anime",
@@ -22,8 +21,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cinematic",
       "Anime glamour"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "anime-glamour-candid",
@@ -35,8 +33,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cinematic",
       "Anime glamour"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "vintage-cinematic-anime-realism",
@@ -48,8 +45,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cinematic",
       "Anime glamour"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "anime-faithful",
@@ -61,8 +57,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cinematic",
       "Anime glamour"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "painterly-anime",
@@ -74,8 +69,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Painterly",
       "Soft atmosphere"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "cinematic-painterly-anime-standard",
@@ -87,8 +81,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Painterly",
       "Soft atmosphere"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "cinematic-painterly-anime-gouache-soft-cel",
@@ -100,8 +93,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Painterly",
       "Soft atmosphere"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "romantic-painterly-anime",
@@ -113,8 +105,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Painterly",
       "Soft atmosphere"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "atmospheric-anime",
@@ -126,8 +117,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Painterly",
       "Soft atmosphere"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graphic-glam-2-5-standard",
@@ -139,8 +129,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Graphic",
       "2.5D"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graphic-glam-2-5-hard",
@@ -152,8 +141,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Graphic",
       "2.5D"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graphic-glam-2-5-retro-pop-hard",
@@ -165,8 +153,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Graphic",
       "2.5D"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graphic-glam-2-5-soft-real-polish",
@@ -178,8 +165,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Graphic",
       "2.5D"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graphic-glam-2-5-soft-real-polish-anime-accent",
@@ -191,8 +177,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Graphic",
       "2.5D"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graphic-glam-2-5-illustrated-real-polish",
@@ -204,8 +189,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Graphic",
       "2.5D"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graphic-glamour-cvhc-selective-realism",
@@ -217,8 +201,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Graphic",
       "2.5D"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "cinematic-volumetric-hard-cel",
@@ -230,8 +213,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cel shading",
       "Hybrid rendering"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graphic-anime-pop-2-5",
@@ -243,8 +225,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cel shading",
       "Hybrid rendering"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "velvet-cel-2-5",
@@ -256,8 +237,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cel shading",
       "Hybrid rendering"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "arcane-jewel-2-5",
@@ -269,8 +249,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cel shading",
       "Hybrid rendering"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ilyku-hybrid-realism-crisp",
@@ -282,8 +261,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Cel shading",
       "Hybrid rendering"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ink-noir-anime",
@@ -295,8 +273,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ink",
       "Linework"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ink-noir-anime-chroma-accent",
@@ -308,8 +285,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ink",
       "Linework"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ink-noir-anime-chroma-accent-motion-trails",
@@ -321,8 +297,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ink",
       "Linework"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ink-wash-cinematic",
@@ -334,8 +309,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ink",
       "Linework"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "clean-line-pencil-sketch",
@@ -347,8 +321,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ink",
       "Linework"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "cinematic-painterly-graphic-novel",
@@ -360,8 +333,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Narrative",
       "Concept art"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "poetic-strip-style",
@@ -373,8 +345,31 @@ window.ndiviaStylePresets = [
     "labels": [
       "Narrative",
       "Concept art"
+    ]
+  },
+  {
+    "id": "franco-belgian-bd-2-5-rich",
+    "name": "Franco-Belgian BD 2.5 — Rich",
+    "positive": "franco-belgian bd 2.5 rich, clean european comic illustration, clear line, ligne claire influence, crisp black lineart, controlled varied line weight, clean local colors, rich shades, selective realism, restrained graphic shading, selective soft tonal modeling, realistic materials, natural anatomy, refined facial modeling, polished skin rendering, sculpted hair masses, cinematic depth, atmospheric perspective, controlled cinematic lighting, clean environmental drawing, precise object definition, elegant european album finish, subtle paper texture, illustration-first rendering, high visual clarity",
+    "negative": "photorealism, painterly rendering, soft airbrushed anime shading, heavy halftone, visible dithering, american pop comic look, retro newspaper printing, distressed ink texture, muddy colors, excessive gradients, glossy 3D CGI, heavy bloom, rough sketch lines, exaggerated manga effects, weak lineart, over-rendered surfaces, loss of clear-line readability",
+    "labels": [
+      "Clear line",
+      "Rich shading"
     ],
-    "previewScene": "character"
+    "category": "Illustration · Narrative & Concept",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/main/style-previews/franco-belgian-bd-2-5-rich.webp?v=1"
+  },
+  {
+    "id": "retro-sunday-comics-2-5-80s-pop-halftone",
+    "name": "Retro Sunday Comics 2.5 — 80s Pop Halftone",
+    "positive": "retro sunday comics 2.5, single image, single full-frame illustration, one continuous scene, 80s pop halftone, american sunday comics, vintage newspaper comic illustration, bold black outlines, varied graphic line weight, crisp comic contours, hard graphic cel shading, flat vibrant color masses, vivid 1980s pop palette, hard halftone dots, visible dithering, vintage print texture, subtle ink registration imperfection, analog print feel, expressive comic character design, clean stylized anatomy, strong silhouette separation, visual storytelling, narrative staging, polished retro comic finish, modern 2.5D graphic polish, selective realism, cinematic depth",
+    "negative": "multi-panel layout, comic strip panels, panel borders, speech bubbles, excessive text, photorealism, painterly rendering, soft airbrushed anime shading, smooth gradient-heavy rendering, invisible lineart, glossy 3D CGI, muddy colors, weak halftone, subtle barely visible dithering, low contrast, sterile vector look, hyper-detailed realistic textures",
+    "labels": [
+      "80s pop",
+      "Halftone"
+    ],
+    "category": "Illustration · Narrative & Concept",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/main/style-previews/retro-sunday-comics-2-5-80s-pop-halftone.webp?v=1"
   },
   {
     "id": "painted-sketch-concept-art",
@@ -386,8 +381,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Narrative",
       "Concept art"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "poetic-contemporary-art-nouveau",
@@ -399,8 +393,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ornamental",
       "Decorative"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ornamental-flat-anime",
@@ -412,8 +405,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ornamental",
       "Decorative"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ornamental-flat-anime-baroque-elaborate",
@@ -425,8 +417,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ornamental",
       "Decorative"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ornamental-nouveau-anime",
@@ -438,8 +429,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ornamental",
       "Decorative"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ornamental-kawaii-glam",
@@ -451,8 +441,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ornamental",
       "Decorative"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "ornamental-kawaii-flat-eccentric",
@@ -464,8 +453,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Ornamental",
       "Decorative"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "graffiti-glam-anime-harajuku-pop-anime",
@@ -477,8 +465,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Pop",
       "Street fashion"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "cinematic-selective-realism",
@@ -490,8 +477,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Realism",
       "Natural framing"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "candid-unposed-photography",
@@ -503,8 +489,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Realism",
       "Natural framing"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "1990s-dark-fantasy-anime-gothic-western",
@@ -516,8 +501,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Retro",
       "Fantasy / Sci-Fi"
-    ],
-    "previewScene": "character"
+    ]
   },
   {
     "id": "vintage-painterly-retro-sci-fi-cover",
@@ -529,8 +513,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Retro",
       "Fantasy / Sci-Fi"
-    ],
-    "previewScene": "environment"
+    ]
   },
   {
     "id": "monumental-mythic-surrealism-dark-ritual",
@@ -542,8 +525,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Monumental",
       "Surreal"
-    ],
-    "previewScene": "environment"
+    ]
   },
   {
     "id": "monumental-mythic-surrealism-retro-sci-fi",
@@ -555,8 +537,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Monumental",
       "Surreal"
-    ],
-    "previewScene": "environment"
+    ]
   },
   {
     "id": "monumental-mythic-surrealism-classical-metaphysical",
@@ -568,8 +549,7 @@ window.ndiviaStylePresets = [
     "labels": [
       "Monumental",
       "Surreal"
-    ],
-    "previewScene": "environment"
+    ]
   },
   {
     "id": "monumental-mythic-surrealism-dark-ritual-retro-sci-fi",
@@ -581,7 +561,6 @@ window.ndiviaStylePresets = [
     "labels": [
       "Monumental",
       "Surreal"
-    ],
-    "previewScene": "environment"
+    ]
   }
 ];
