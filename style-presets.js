@@ -373,7 +373,7 @@ window.ndiviaStylePresets = [
       "Experimental"
     ],
     "category": "Illustration · Narrative & Concept",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/main/style-previews/franco-belgian-bd-2-5-rich.webp?v=1"
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/main/style-previews/franco-belgian-bd-2-5-color-album.webp?v=1"
   },
   {
     "id": "retro-sunday-comics-2-5-80s-pop-halftone",
