@@ -584,7 +584,7 @@ window.ndiviaStylePresets = [
     "positive": "technical ligne claire 2.5, dense coherent linework, hierarchical technical detailing, precise mechanical construction, consistent perspective, readable micro-detail, controlled contour weight, clean technical drawing, european comic illustration, clear structural separation, believable machinery, functional object design, layered mechanical components, precise architectural drawing, weathered surfaces, realistic material wear, selective realism, restrained graphic shading, high visual clarity, polished bande dessinée finish",
     "negative": "photorealism, painterly rendering, loose sketch construction, chaotic line density, inconsistent perspective, decorative fake detail, random greebling, unreadable micro-detail, excessive contour weight, soft airbrushed rendering, glossy cgi, plastic materials, muddy surfaces, exaggerated manga effects, flat generic machinery, impossible mechanical construction",
     "category": "Illustration · Narrative & Concept",
-    "preview": "https://github.com/ndivia/endy-image-studio-data/blob/main/style-previews/technical-ligne-claire%202.5.webp?v=1",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/technical-ligne-claire%202.5.webpv=1",
     "labels": [],
     "formulaStatus": "provided"
   },
@@ -614,7 +614,7 @@ window.ndiviaStylePresets = [
     "positive": "velvet coquette anime 2.5, soft real polish, refined adult anime character design, elegant feminine features, delicate variable-weight linework, clean graphic silhouette, velvety luminous skin, soft realistic facial modeling, selective 2.5D shading, subtle tonal gradients, refined fabric textures, delicate lace, satin ribbons, elegant bows, sophisticated coquette fashion, soft directional lighting, rich controlled colors, polished anime illustration, subtle glamour, natural adult anatomy",
     "negative": "photorealism, childish proportions, chibi, exaggerated doll face, plastic skin, excessive airbrushing, heavy black outlines, hard cel-only shading, flat lifeless rendering, excessive gloss, overly saturated colors, cluttered accessories, exaggerated anatomy, muddy gradients, glossy CGI, generic fashion photography",
     "category": "Anime · Cinematic & Glamour",
-    "preview": "https://github.com/ndivia/endy-image-studio-data/blob/main/style-previews/velvet-coquette-anime-2.5-soft-real-polish.webp?v=1",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/velvet-coquette-anime-2.5-soft-real-polish.webp?v=1",
     "labels": [],
     "formulaStatus": "reconstructed"
   },
@@ -624,7 +624,7 @@ window.ndiviaStylePresets = [
     "positive": "franco-belgian coquette halftone 2.5 rich, elegant european bande dessinée illustration, refined ligne claire, crisp variable-weight lineart, adult anime-comic character design, rich dimensional shading, selective realism, integrated halftone textures, dense selective print dots, layered graphic shadows, delicate lace patterns, decorative ribbons, elegant bows, refined coquette fashion, natural adult anatomy, polished skin modeling, rich controlled palette, subtle vintage print character, cinematic depth, readable environmental detail, sophisticated european comic finish",
     "negative": "photorealism, generic manga rendering, american superhero comic style, chaotic halftone overlay, random print dots, excessive dithering, muddy color separation, weak lineart, heavy painterly blending, glossy CGI, plastic skin, childish proportions, exaggerated anatomy, excessive accessories, flat cel-only shading, illegible details",
     "category": "Graphic Glam · 2.5D",
-    "preview": "https://github.com/ndivia/endy-image-studio-data/blob/main/style-previews/franco-belgian-coquette-halftone-2.5-rich.webp?v=1",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/franco-belgian-coquette-halftone-2.5-rich.webp?v=1",
     "labels": [],
     "formulaStatus": "reconstructed"
   },
@@ -674,7 +674,7 @@ window.ndiviaStylePresets = [
     "positive": "atomic pulp glamour 2.5, atomic age pulp illustration, retro-futuristic glamour, 1950s science fiction cover art, refined adult character design, dynamic pulp composition, bold illustrative contours, selective 2.5D shading, rich dimensional graphic shadows, saturated vintage color palette, dramatic cinematic lighting, analog science fiction machinery, chrome details, retro rockets, atomic age architecture, expressive heroic posing, polished vintage print texture, strong silhouette readability, selective realism, theatrical visual storytelling, glamorous pulp magazine finish",
     "negative": "photorealism, glossy modern CGI, generic cyberpunk, contemporary futuristic technology, sterile science fiction design, excessive neon, childish cartoon proportions, distorted anatomy, random mechanical details, muddy vintage colors, chaotic composition, excessive visual effects, heavy painterly abstraction, flat lifeless cel shading, plastic skin, illegible silhouettes, kitsch overload",
     "category": "Retro · Fantasy & Sci-Fi",
-    "preview": "https://github.com/ndivia/endy-image-studio-data/blob/b4023ea741747248295cd11745e29a8b7b75f0b6/style-previews/atomic-pulp-glamour-2.5.webp?v=1",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/atomic-pulp-glamour-2.5.webp?v=1",
     "labels": [],
     "formulaStatus": "reconstructed"
   },
