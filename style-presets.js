@@ -589,16 +589,6 @@ window.ndiviaStylePresets = [
     "formulaStatus": "provided"
   },
   {
-    "id": "vintage-halftone-anime-25-standard",
-    "name": "Vintage Halftone Anime 2.5 — Standard",
-    "positive": "vintage halftone anime 2.5 standard, clean graphic anime illustration, selective halftone, synthetic graphic shadows, controlled linework, flat readable color masses, restrained print texture, simplified environmental detail, vintage print character, clean anime-comic finish",
-    "negative": "photorealism, semi-realistic rendering, soft airbrushed shading, excessive painterly blending, glossy CGI, muddy details, cluttered backgrounds, excessive halftone density, illegible shadows, weak linework",
-    "category": "Anime · Cel & Hybrid Rendering",
-    "preview": "",
-    "labels": [],
-    "formulaStatus": "negative-operational"
-  },
-  {
     "id": "vintage-halftone-anime-25-rich",
     "name": "Vintage Halftone Anime 2.5 — Rich",
     "positive": "vintage halftone anime 2.5 rich, rich graphic anime illustration, dense selective halftone, developed print textures, layered graphic shadows, controlled linework, rich readable color masses, increased environmental detail, greater atmospheric depth, vintage print character, polished anime-comic finish",
