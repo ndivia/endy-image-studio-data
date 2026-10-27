@@ -1,5 +1,5 @@
-// Endy Image Studio — 48 existing presets + 15 additions, 2026-10-27
-// Added prompts transcribed from user-provided library. Empty previews use the gallery placeholder.
+// Endy Image Studio — 62 presets grouped by style family, 2026-10-27
+// Existing family order preserved; new presets integrated and missing labels completed.
 window.ndiviaStylePresets = [
   {
     "id": "anime-glamour-cinematic",
@@ -60,6 +60,34 @@ window.ndiviaStylePresets = [
       "Cinematic",
       "Anime glamour"
     ]
+  },
+  {
+    "id": "velvet-coquette-anime-25-soft-real-polish",
+    "name": "Velvet Coquette Anime 2.5 — Soft Real Polish",
+    "positive": "velvet coquette anime 2.5, soft real polish, refined adult anime character design, elegant feminine features, delicate variable-weight linework, clean graphic silhouette, velvety luminous skin, soft realistic facial modeling, selective 2.5D shading, subtle tonal gradients, refined fabric textures, delicate lace, satin ribbons, elegant bows, sophisticated coquette fashion, soft directional lighting, rich controlled colors, polished anime illustration, subtle glamour, natural adult anatomy",
+    "negative": "photorealism, childish proportions, chibi, exaggerated doll face, plastic skin, excessive airbrushing, heavy black outlines, hard cel-only shading, flat lifeless rendering, excessive gloss, overly saturated colors, cluttered accessories, exaggerated anatomy, muddy gradients, glossy CGI, generic fashion photography",
+    "category": "Anime · Cinematic & Glamour",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/velvet-coquette-anime-2.5-soft-real-polish.webp?v=1",
+    "labels": [
+      "Anime glamour",
+      "Coquette",
+      "2.5D"
+    ],
+    "formulaStatus": "reconstructed"
+  },
+  {
+    "id": "cinematic-editorial-anime-25-crisp-glamour-realism",
+    "name": "Cinematic Editorial Anime 2.5 — Crisp Glamour Realism",
+    "positive": "cinematic editorial anime 2.5, crisp glamour realism, refined adult anime character design, preserved anime facial identity, crisp refined anime linework, controlled variable line weight, clean silhouette contours, rich dimensional cel shading, selective photographic realism, realistic skin and fabric materials, natural adult anatomy, sophisticated glamour posing, candid editorial gestures, cinematic editorial lighting, controlled chromatic contrast, realistic environmental depth, photographic composition, atmospheric perspective, polished anime rendering, rich shades, refined facial modeling, sharp selective details",
+    "negative": "full photorealism, westernized anime face, generic fashion photography, heavy american comic outlines, flat cel-only shading, excessive airbrushing, plastic skin, glossy CGI, exaggerated fashion anatomy, distorted proportions, excessive bloom, artificial glamour lighting, muddy gradients, soft blurry linework, excessive painterly rendering, oversaturated skin, stiff posing, cluttered composition",
+    "category": "Anime · Cinematic & Glamour",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/cinematic-editorial-anime-2.5-crisp-glamour-realism.webp?v=1",
+    "labels": [
+      "Cinematic",
+      "Anime glamour",
+      "Editorial"
+    ],
+    "formulaStatus": "reconstructed-positive-core-defined"
   },
   {
     "id": "painterly-anime",
@@ -206,6 +234,20 @@ window.ndiviaStylePresets = [
     ]
   },
   {
+    "id": "vintage-american-glamour-25",
+    "name": "Vintage American Glamour 2.5",
+    "positive": "vintage american glamour 2.5, classic american glamour illustration, mid-century editorial illustration, elegant adult feminine character design, refined vintage beauty, polished illustrative linework, selective 2.5D modeling, soft dimensional skin shading, natural anatomy, sophisticated vintage color palette, warm studio highlights, gentle chiaroscuro, elegant fashion illustration, refined fabric rendering, subtle analog print texture, expressive natural posing, polished painterly-graphic finish, classic magazine illustration aesthetic, cinematic glamour composition",
+    "negative": "photorealism, generic anime cel shading, exaggerated pin-up caricature, childish proportions, plastic skin, glossy CGI, excessive airbrushing, neon cyberpunk colors, extreme anatomical exaggeration, heavy comic outlines, flat vector rendering, muddy vintage colors, excessive sepia, distressed grunge texture, excessive painterly abstraction, modern sterile commercial photography",
+    "category": "Graphic Glam · 2.5D",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/vintage-american-glamour-2.5.webp?v=1",
+    "labels": [
+      "Graphic",
+      "2.5D",
+      "Vintage glamour"
+    ],
+    "formulaStatus": "reconstructed"
+  },
+  {
     "id": "cinematic-volumetric-hard-cel",
     "name": "Cinematic Volumetric Hard Cel",
     "positive": "anime character design, hard-edged cel shadow shapes, selective soft gradients within lit areas, deep graphic shadows, strong rim light and backlight, volumetric glow, restrained haze and bloom, atmospheric depth, rich cinematic color grading",
@@ -264,6 +306,19 @@ window.ndiviaStylePresets = [
       "Cel shading",
       "Hybrid rendering"
     ]
+  },
+  {
+    "id": "vintage-halftone-anime-25-rich",
+    "name": "Vintage Halftone Anime 2.5 — Rich",
+    "positive": "vintage halftone anime 2.5 rich, rich graphic anime illustration, dense selective halftone, developed print textures, layered graphic shadows, controlled linework, rich readable color masses, increased environmental detail, greater atmospheric depth, vintage print character, polished anime-comic finish",
+    "negative": "photorealism, semi-realistic drift, excessive realistic modeling, soft airbrushed shading, painterly blending, glossy CGI, muddy details, illegible halftone, excessive gradients, weak linework",
+    "category": "Anime · Cel & Hybrid Rendering",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/vintage-halftone-anime-2.5-rich.webp?v=1",
+    "labels": [
+      "Cel shading",
+      "Halftone"
+    ],
+    "formulaStatus": "negative-operational"
   },
   {
     "id": "ink-noir-anime",
@@ -326,6 +381,20 @@ window.ndiviaStylePresets = [
     ]
   },
   {
+    "id": "crooked-gothic-cartoon-ink-shadow",
+    "name": "Crooked Gothic Cartoon — Ink & Shadow",
+    "positive": "crooked gothic cartoon, ink and shadow, stylized gothic cartoon illustration, deliberately crooked architecture, warped perspective, elongated theatrical silhouettes, expressive black ink linework, irregular contour weight, deep solid black shadows, exaggerated angular shapes, eerie storybook atmosphere, macabre visual storytelling, twisted trees, distorted gothic interiors, dramatic chiaroscuro, selective muted colors, strong negative space, handmade ink texture, expressive character gestures, controlled cartoon deformation, cinematic gothic composition",
+    "negative": "photorealism, glossy 3D animation, generic cute cartoon, polished disney-style rendering, realistic architectural geometry, perfectly straight perspective, soft airbrushed shading, bright cheerful palette, excessive gradients, weak shadows, uniform vector outlines, random anatomical mistakes, muddy inkwork, cluttered composition, excessive surface detail",
+    "category": "Ink · Noir & Sketch",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/crooked-gothic-cartoon-ink-%26-shadow.webp?v=1",
+    "labels": [
+      "Ink",
+      "Linework",
+      "Gothic"
+    ],
+    "formulaStatus": "reconstructed"
+  },
+  {
     "id": "cinematic-painterly-graphic-novel",
     "name": "Cinematic Painterly Graphic Novel",
     "positive": "cinematic graphic novel illustration, expressive painterly brushwork, watercolor-like textures, dramatic lighting, narrative composition, atmospheric depth",
@@ -375,6 +444,34 @@ window.ndiviaStylePresets = [
     "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/main/style-previews/franco-belgian-bd-2-5-color-album.webp?v=1"
   },
   {
+    "id": "franco-belgian-bd-25-anime",
+    "name": "Franco-Belgian BD 2.5 — Anime",
+    "positive": "franco-belgian bd 2.5 anime, refined adult anime character design, preserved anime facial identity, expressive large anime eyes, delicate compact nose, soft facial features, voluminous structured anime hair, clean european bande dessinée linework, crisp variable-weight contours, refined ligne claire influence, rich dimensional shading, selective realism, subtle integrated halftone texture, realistic skin and fabric materials, natural adult anatomy, cinematic lighting, controlled atmospheric depth, polished european comic illustration, elegant color separation, refined graphic readability",
+    "negative": "westernized facial features, generic european comic face, photorealism, american superhero comic style, heavy muscular comic anatomy, flat cel-only shading, excessive painterly blending, glossy CGI, plastic skin, childish proportions, chibi, distorted anatomy, muddy linework, excessive halftone, exaggerated manga effects, weak facial identity, excessive realistic facial reconstruction",
+    "category": "Illustration · Narrative & Concept",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/franco-belgian-BD-2.5-anime.webp?v=1",
+    "labels": [
+      "Clear line",
+      "Rich shading",
+      "Anime"
+    ],
+    "formulaStatus": "reconstructed-from-canonical-definition"
+  },
+  {
+    "id": "franco-belgian-coquette-halftone-25-rich",
+    "name": "Franco-Belgian Coquette Halftone 2.5 — Rich",
+    "positive": "franco-belgian coquette halftone 2.5 rich, elegant european bande dessinée illustration, refined ligne claire, crisp variable-weight lineart, adult anime-comic character design, rich dimensional shading, selective realism, integrated halftone textures, dense selective print dots, layered graphic shadows, delicate lace patterns, decorative ribbons, elegant bows, refined coquette fashion, natural adult anatomy, polished skin modeling, rich controlled palette, subtle vintage print character, cinematic depth, readable environmental detail, sophisticated european comic finish",
+    "negative": "photorealism, generic manga rendering, american superhero comic style, chaotic halftone overlay, random print dots, excessive dithering, muddy color separation, weak lineart, heavy painterly blending, glossy CGI, plastic skin, childish proportions, exaggerated anatomy, excessive accessories, flat cel-only shading, illegible details",
+    "category": "Illustration · Narrative & Concept",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/franco-belgian-coquette-halftone-2.5-rich.webp?v=1",
+    "labels": [
+      "Clear line",
+      "Halftone",
+      "Coquette"
+    ],
+    "formulaStatus": "reconstructed"
+  },
+  {
     "id": "retro-sunday-comics-2-5-80s-pop-halftone",
     "name": "Retro Sunday Comics 2.5 — 80s Pop Halftone",
     "positive": "single full-frame retro american newspaper comic illustration, one continuous scene, bold black outlines with varied line weight, hard graphic cel shadows, vibrant flat color masses, vivid 1980s pop palette, pronounced halftone dots, visible dithering, vintage print texture, subtle ink registration imperfections, expressive comic characters, clean stylized anatomy, strong silhouettes, narrative staging, selective dimensional modeling, cinematic depth",
@@ -397,6 +494,19 @@ window.ndiviaStylePresets = [
       "Narrative",
       "Concept art"
     ]
+  },
+  {
+    "id": "technical-ligne-claire-25",
+    "name": "Technical Ligne Claire 2.5",
+    "positive": "technical ligne claire 2.5, dense coherent linework, hierarchical technical detailing, precise mechanical construction, consistent perspective, readable micro-detail, controlled contour weight, clean technical drawing, european comic illustration, clear structural separation, believable machinery, functional object design, layered mechanical components, precise architectural drawing, weathered surfaces, realistic material wear, selective realism, restrained graphic shading, high visual clarity, polished bande dessinée finish",
+    "negative": "photorealism, painterly rendering, loose sketch construction, chaotic line density, inconsistent perspective, decorative fake detail, random greebling, unreadable micro-detail, excessive contour weight, soft airbrushed rendering, glossy cgi, plastic materials, muddy surfaces, exaggerated manga effects, flat generic machinery, impossible mechanical construction",
+    "category": "Illustration · Narrative & Concept",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/technical-ligne-claire%202.5.webp?v=1",
+    "labels": [
+      "Clear line",
+      "Technical drawing"
+    ],
+    "formulaStatus": "provided"
   },
   {
     "id": "poetic-contemporary-art-nouveau",
@@ -471,6 +581,34 @@ window.ndiviaStylePresets = [
     ]
   },
   {
+    "id": "neo-japonisme-ornamental-25",
+    "name": "Neo-Japonisme Ornamental 2.5",
+    "positive": "neo-japonisme ornamental 2.5, contemporary japanese decorative illustration, refined anime character design, asymmetrical ornamental composition, japanese woodblock print influence, traditional textile patterns, flowing wave motifs, stylized botanical ornaments, elegant fan shapes, controlled negative space, harmonious decorative rhythm, refined variable-weight linework, clean readable silhouettes, selective 2.5D shading, sophisticated limited palette, flat graphic color masses, selective dimensional modeling, elegant pattern integration, decorative environmental storytelling, polished contemporary japonisme",
+    "negative": "photorealism, generic anime background, european art nouveau ornamentation, baroque overload, excessive floral clutter, random japanese symbols, chaotic pattern placement, symmetrical wallpaper composition, muddy colors, excessive gradients, glossy CGI, heavy comic outlines, weak silhouettes, distorted anatomy, excessive realistic textures, illegible facial features",
+    "category": "Decorative · Nouveau & Kawaii",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/neo-japonisme-ornamental-2.5.webp?v=1",
+    "labels": [
+      "Ornamental",
+      "Decorative",
+      "Japonisme"
+    ],
+    "formulaStatus": "reconstructed"
+  },
+  {
+    "id": "ornamental-chromatic-anime-yurari-banri",
+    "name": "Ornamental Chromatic Anime — Yurari Banri",
+    "positive": "ornamental chromatic anime, Yurari Banri aesthetic influence, refined anime character design, expressive anime eyes, elegant facial features, intricate ornamental details, rich chromatic contrasts, sophisticated saturated palette, decorative graphic patterns, flowing hair masses, delicate variable-weight linework, selective dimensional shading, luminous color accents, harmonious color separation, intricate costume detailing, layered decorative composition",
+    "negative": "photorealism, generic anime rendering, dull colors, muddy palette, excessive airbrushing, heavy western comic outlines, flat lifeless shading, chaotic ornamentation, poor silhouette readability, distorted anatomy, oversaturated skin, plastic textures, cluttered facial details",
+    "category": "Decorative · Nouveau & Kawaii",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/ornamental-chromatic-anime-yurari-banri.webp?v=1",
+    "labels": [
+      "Ornamental",
+      "Decorative",
+      "Chromatic"
+    ],
+    "formulaStatus": "provided"
+  },
+  {
     "id": "graffiti-glam-anime-harajuku-pop-anime",
     "name": "Graffiti Glam Anime / Harajuku Pop Anime",
     "positive": "glamorous Harajuku street-fashion anime illustration, vibrant graffiti splashes, neon palette, selective glossy highlights, detailed fashion accessories, dynamic graphic composition",
@@ -507,6 +645,48 @@ window.ndiviaStylePresets = [
     ]
   },
   {
+    "id": "neo-vintage-glamour-cinematic",
+    "name": "Neo-Vintage Glamour Cinematic",
+    "positive": "neo-vintage glamour cinematic, contemporary cinematic glamour, neo-vintage color grading, selective realism, refined chiaroscuro, soft directional cinematic lighting, elegant editorial composition, sophisticated character presence, natural anatomy, refined facial modeling, believable skin and materials, warm muted highlights, deep chromatic shadows, selective color accents, subtle analog film grain, atmospheric depth, layered composition, controlled bloom, polished cinematic finish, modern glamour with vintage sensibility",
+    "negative": "pure photorealism, generic retro filter, heavy sepia, washed out vintage look, excessive film damage, strong scratches, kitsch pin-up aesthetic, flat studio lighting, glossy modern commercial look, neon cyberpunk palette, hard cel shading, heavy comic outlines, painterly rendering, plastic skin, excessive bloom, oversaturated colors, sterile digital finish",
+    "category": "Realism · Cinematic & Candid",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/neo-vintage-glamour-cinematic.webp?v=1",
+    "labels": [
+      "Realism",
+      "Cinematic",
+      "Neo-vintage glamour"
+    ],
+    "formulaStatus": "provided"
+  },
+  {
+    "id": "poetic-atmospheric-glamour-albi-bevacqua",
+    "name": "Poetic Atmospheric Glamour — Albi × Bevacqua",
+    "positive": "poetic atmospheric glamour, cinematic fine art portrait, poetic photographic atmosphere, refined illustrative glamour, natural adult anatomy, delicate facial modeling, expressive intimate gaze, soft directional natural light, atmospheric haze, delicate backlighting, luminous skin, subtle analog texture, refined muted color palette, soft environmental depth, painterly photographic transitions, elegant narrative composition, quiet emotional storytelling, selective realism, natural spontaneous gesture, sophisticated editorial finish",
+    "negative": "flat studio lighting, harsh commercial beauty lighting, excessive glamour retouching, plastic skin, glossy CGI, heavy comic outlines, hard cel shading, oversaturated colors, exaggerated anatomy, theatrical fashion posing, excessive bloom, artificial fog, muddy facial features, sterile background, generic stock photography, cluttered composition",
+    "category": "Realism · Cinematic & Candid",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/poetic-atmospheric-glamour-albi-×-bevacqua.webp?v=1",
+    "labels": [
+      "Realism",
+      "Natural framing",
+      "Soft atmosphere"
+    ],
+    "formulaStatus": "reconstructed"
+  },
+  {
+    "id": "alessio-albi-atmospheric-natural-portrait",
+    "name": "Alessio Albi — Atmospheric Natural Portrait",
+    "positive": "atmospheric natural portrait photography, poetic environmental portrait, authentic adult facial features, natural skin texture, soft available light, subtle directional illumination, atmospheric perspective, environmental framing, organic foreground elements, delicate natural shadows, intimate expression, unposed body language, shallow depth of field, soft background separation, restrained color grading, natural cinematic composition, quiet emotional atmosphere, realistic photographic materials, subtle film grain, elegant fine art portrait",
+    "negative": "anime illustration, comic linework, cel shading, glossy CGI, plastic skin, excessive beauty retouching, artificial studio lighting, hard fashion flash, extreme saturation, heavy HDR, exaggerated facial proportions, theatrical posing, artificial bokeh, excessive bloom, oversharpening, sterile commercial portrait, cluttered background, unnatural skin colors",
+    "category": "Realism · Cinematic & Candid",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/alessio-albi-atmospheric-natural-portrait.webp?v=1",
+    "labels": [
+      "Realism",
+      "Natural framing",
+      "Portrait"
+    ],
+    "formulaStatus": "reconstructed"
+  },
+  {
     "id": "1990s-dark-fantasy-anime-gothic-western",
     "name": "1990s Dark Fantasy Anime / Gothic Western Anime",
     "positive": "1990s dark fantasy anime illustration, gothic western atmosphere, traditional hand-drawn cel animation aesthetic, visible anime linework, large solid black shadow masses, sparse cel shading, limited palette, vintage hand-painted backgrounds",
@@ -529,6 +709,20 @@ window.ndiviaStylePresets = [
       "Retro",
       "Fantasy / Sci-Fi"
     ]
+  },
+  {
+    "id": "atomic-pulp-glamour-25",
+    "name": "Atomic Pulp Glamour 2.5",
+    "positive": "atomic pulp glamour 2.5, atomic age pulp illustration, retro-futuristic glamour, 1950s science fiction cover art, refined adult character design, dynamic pulp composition, bold illustrative contours, selective 2.5D shading, rich dimensional graphic shadows, saturated vintage color palette, dramatic cinematic lighting, analog science fiction machinery, chrome details, retro rockets, atomic age architecture, expressive heroic posing, polished vintage print texture, strong silhouette readability, selective realism, theatrical visual storytelling, glamorous pulp magazine finish",
+    "negative": "photorealism, glossy modern CGI, generic cyberpunk, contemporary futuristic technology, sterile science fiction design, excessive neon, childish cartoon proportions, distorted anatomy, random mechanical details, muddy vintage colors, chaotic composition, excessive visual effects, heavy painterly abstraction, flat lifeless cel shading, plastic skin, illegible silhouettes, kitsch overload",
+    "category": "Retro · Fantasy & Sci-Fi",
+    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/atomic-pulp-glamour-2.5.webp?v=1",
+    "labels": [
+      "Retro",
+      "Fantasy / Sci-Fi",
+      "Pulp"
+    ],
+    "formulaStatus": "reconstructed"
   },
   {
     "id": "monumental-mythic-surrealism-dark-ritual",
@@ -577,145 +771,5 @@ window.ndiviaStylePresets = [
       "Monumental",
       "Surreal"
     ]
-  },
-  {
-    "id": "technical-ligne-claire-25",
-    "name": "Technical Ligne Claire 2.5",
-    "positive": "technical ligne claire 2.5, dense coherent linework, hierarchical technical detailing, precise mechanical construction, consistent perspective, readable micro-detail, controlled contour weight, clean technical drawing, european comic illustration, clear structural separation, believable machinery, functional object design, layered mechanical components, precise architectural drawing, weathered surfaces, realistic material wear, selective realism, restrained graphic shading, high visual clarity, polished bande dessinée finish",
-    "negative": "photorealism, painterly rendering, loose sketch construction, chaotic line density, inconsistent perspective, decorative fake detail, random greebling, unreadable micro-detail, excessive contour weight, soft airbrushed rendering, glossy cgi, plastic materials, muddy surfaces, exaggerated manga effects, flat generic machinery, impossible mechanical construction",
-    "category": "Illustration · Narrative & Concept",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/technical-ligne-claire%202.5.webp?v=1",
-    "labels": [],
-    "formulaStatus": "provided"
-  },
-  {
-    "id": "vintage-halftone-anime-25-rich",
-    "name": "Vintage Halftone Anime 2.5 — Rich",
-    "positive": "vintage halftone anime 2.5 rich, rich graphic anime illustration, dense selective halftone, developed print textures, layered graphic shadows, controlled linework, rich readable color masses, increased environmental detail, greater atmospheric depth, vintage print character, polished anime-comic finish",
-    "negative": "photorealism, semi-realistic drift, excessive realistic modeling, soft airbrushed shading, painterly blending, glossy CGI, muddy details, illegible halftone, excessive gradients, weak linework",
-    "category": "Anime · Cel & Hybrid Rendering",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/vintage-halftone-anime-2.5-rich.webp?v=1",
-    "labels": [],
-    "formulaStatus": "negative-operational"
-  },
-  {
-    "id": "neo-vintage-glamour-cinematic",
-    "name": "Neo-Vintage Glamour Cinematic",
-    "positive": "neo-vintage glamour cinematic, contemporary cinematic glamour, neo-vintage color grading, selective realism, refined chiaroscuro, soft directional cinematic lighting, elegant editorial composition, sophisticated character presence, natural anatomy, refined facial modeling, believable skin and materials, warm muted highlights, deep chromatic shadows, selective color accents, subtle analog film grain, atmospheric depth, layered composition, controlled bloom, polished cinematic finish, modern glamour with vintage sensibility",
-    "negative": "pure photorealism, generic retro filter, heavy sepia, washed out vintage look, excessive film damage, strong scratches, kitsch pin-up aesthetic, flat studio lighting, glossy modern commercial look, neon cyberpunk palette, hard cel shading, heavy comic outlines, painterly rendering, plastic skin, excessive bloom, oversaturated colors, sterile digital finish",
-    "category": "Realism · Cinematic & Candid",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/neo-vintage-glamour-cinematic.webp?v=1",
-    "labels": [],
-    "formulaStatus": "provided"
-  },
-  {
-    "id": "velvet-coquette-anime-25-soft-real-polish",
-    "name": "Velvet Coquette Anime 2.5 — Soft Real Polish",
-    "positive": "velvet coquette anime 2.5, soft real polish, refined adult anime character design, elegant feminine features, delicate variable-weight linework, clean graphic silhouette, velvety luminous skin, soft realistic facial modeling, selective 2.5D shading, subtle tonal gradients, refined fabric textures, delicate lace, satin ribbons, elegant bows, sophisticated coquette fashion, soft directional lighting, rich controlled colors, polished anime illustration, subtle glamour, natural adult anatomy",
-    "negative": "photorealism, childish proportions, chibi, exaggerated doll face, plastic skin, excessive airbrushing, heavy black outlines, hard cel-only shading, flat lifeless rendering, excessive gloss, overly saturated colors, cluttered accessories, exaggerated anatomy, muddy gradients, glossy CGI, generic fashion photography",
-    "category": "Anime · Cinematic & Glamour",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/velvet-coquette-anime-2.5-soft-real-polish.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed"
-  },
-  {
-    "id": "franco-belgian-coquette-halftone-25-rich",
-    "name": "Franco-Belgian Coquette Halftone 2.5 — Rich",
-    "positive": "franco-belgian coquette halftone 2.5 rich, elegant european bande dessinée illustration, refined ligne claire, crisp variable-weight lineart, adult anime-comic character design, rich dimensional shading, selective realism, integrated halftone textures, dense selective print dots, layered graphic shadows, delicate lace patterns, decorative ribbons, elegant bows, refined coquette fashion, natural adult anatomy, polished skin modeling, rich controlled palette, subtle vintage print character, cinematic depth, readable environmental detail, sophisticated european comic finish",
-    "negative": "photorealism, generic manga rendering, american superhero comic style, chaotic halftone overlay, random print dots, excessive dithering, muddy color separation, weak lineart, heavy painterly blending, glossy CGI, plastic skin, childish proportions, exaggerated anatomy, excessive accessories, flat cel-only shading, illegible details",
-    "category": "Graphic Glam · 2.5D",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/franco-belgian-coquette-halftone-2.5-rich.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed"
-  },
-  {
-    "id": "neo-japonisme-ornamental-25",
-    "name": "Neo-Japonisme Ornamental 2.5",
-    "positive": "neo-japonisme ornamental 2.5, contemporary japanese decorative illustration, refined anime character design, asymmetrical ornamental composition, japanese woodblock print influence, traditional textile patterns, flowing wave motifs, stylized botanical ornaments, elegant fan shapes, controlled negative space, harmonious decorative rhythm, refined variable-weight linework, clean readable silhouettes, selective 2.5D shading, sophisticated limited palette, flat graphic color masses, selective dimensional modeling, elegant pattern integration, decorative environmental storytelling, polished contemporary japonisme",
-    "negative": "photorealism, generic anime background, european art nouveau ornamentation, baroque overload, excessive floral clutter, random japanese symbols, chaotic pattern placement, symmetrical wallpaper composition, muddy colors, excessive gradients, glossy CGI, heavy comic outlines, weak silhouettes, distorted anatomy, excessive realistic textures, illegible facial features",
-    "category": "Decorative · Nouveau & Kawaii",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/neo-japonisme-ornamental-2.5.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed"
-  },
-  {
-    "id": "ornamental-chromatic-anime-yurari-banri",
-    "name": "Ornamental Chromatic Anime — Yurari Banri",
-    "positive": "ornamental chromatic anime, Yurari Banri aesthetic influence, refined anime character design, expressive anime eyes, elegant facial features, intricate ornamental details, rich chromatic contrasts, sophisticated saturated palette, decorative graphic patterns, flowing hair masses, delicate variable-weight linework, selective dimensional shading, luminous color accents, harmonious color separation, intricate costume detailing, layered decorative composition",
-    "negative": "photorealism, generic anime rendering, dull colors, muddy palette, excessive airbrushing, heavy western comic outlines, flat lifeless shading, chaotic ornamentation, poor silhouette readability, distorted anatomy, oversaturated skin, plastic textures, cluttered facial details",
-    "category": "Decorative · Nouveau & Kawaii",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/ornamental-chromatic-anime-yurari-banri.webp?v=1",
-    "labels": [],
-    "formulaStatus": "provided"
-  },
-  {
-    "id": "crooked-gothic-cartoon-ink-shadow",
-    "name": "Crooked Gothic Cartoon — Ink & Shadow",
-    "positive": "crooked gothic cartoon, ink and shadow, stylized gothic cartoon illustration, deliberately crooked architecture, warped perspective, elongated theatrical silhouettes, expressive black ink linework, irregular contour weight, deep solid black shadows, exaggerated angular shapes, eerie storybook atmosphere, macabre visual storytelling, twisted trees, distorted gothic interiors, dramatic chiaroscuro, selective muted colors, strong negative space, handmade ink texture, expressive character gestures, controlled cartoon deformation, cinematic gothic composition",
-    "negative": "photorealism, glossy 3D animation, generic cute cartoon, polished disney-style rendering, realistic architectural geometry, perfectly straight perspective, soft airbrushed shading, bright cheerful palette, excessive gradients, weak shadows, uniform vector outlines, random anatomical mistakes, muddy inkwork, cluttered composition, excessive surface detail",
-    "category": "Ink · Noir & Sketch",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/crooked-gothic-cartoon-ink-%26-shadow.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed"
-  },
-  {
-    "id": "vintage-american-glamour-25",
-    "name": "Vintage American Glamour 2.5",
-    "positive": "vintage american glamour 2.5, classic american glamour illustration, mid-century editorial illustration, elegant adult feminine character design, refined vintage beauty, polished illustrative linework, selective 2.5D modeling, soft dimensional skin shading, natural anatomy, sophisticated vintage color palette, warm studio highlights, gentle chiaroscuro, elegant fashion illustration, refined fabric rendering, subtle analog print texture, expressive natural posing, polished painterly-graphic finish, classic magazine illustration aesthetic, cinematic glamour composition",
-    "negative": "photorealism, generic anime cel shading, exaggerated pin-up caricature, childish proportions, plastic skin, glossy CGI, excessive airbrushing, neon cyberpunk colors, extreme anatomical exaggeration, heavy comic outlines, flat vector rendering, muddy vintage colors, excessive sepia, distressed grunge texture, excessive painterly abstraction, modern sterile commercial photography",
-    "category": "Graphic Glam · 2.5D",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/vintage-american-glamour-2.5.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed"
-  },
-  {
-    "id": "atomic-pulp-glamour-25",
-    "name": "Atomic Pulp Glamour 2.5",
-    "positive": "atomic pulp glamour 2.5, atomic age pulp illustration, retro-futuristic glamour, 1950s science fiction cover art, refined adult character design, dynamic pulp composition, bold illustrative contours, selective 2.5D shading, rich dimensional graphic shadows, saturated vintage color palette, dramatic cinematic lighting, analog science fiction machinery, chrome details, retro rockets, atomic age architecture, expressive heroic posing, polished vintage print texture, strong silhouette readability, selective realism, theatrical visual storytelling, glamorous pulp magazine finish",
-    "negative": "photorealism, glossy modern CGI, generic cyberpunk, contemporary futuristic technology, sterile science fiction design, excessive neon, childish cartoon proportions, distorted anatomy, random mechanical details, muddy vintage colors, chaotic composition, excessive visual effects, heavy painterly abstraction, flat lifeless cel shading, plastic skin, illegible silhouettes, kitsch overload",
-    "category": "Retro · Fantasy & Sci-Fi",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/atomic-pulp-glamour-2.5.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed"
-  },
-  {
-    "id": "poetic-atmospheric-glamour-albi-bevacqua",
-    "name": "Poetic Atmospheric Glamour — Albi × Bevacqua",
-    "positive": "poetic atmospheric glamour, cinematic fine art portrait, poetic photographic atmosphere, refined illustrative glamour, natural adult anatomy, delicate facial modeling, expressive intimate gaze, soft directional natural light, atmospheric haze, delicate backlighting, luminous skin, subtle analog texture, refined muted color palette, soft environmental depth, painterly photographic transitions, elegant narrative composition, quiet emotional storytelling, selective realism, natural spontaneous gesture, sophisticated editorial finish",
-    "negative": "flat studio lighting, harsh commercial beauty lighting, excessive glamour retouching, plastic skin, glossy CGI, heavy comic outlines, hard cel shading, oversaturated colors, exaggerated anatomy, theatrical fashion posing, excessive bloom, artificial fog, muddy facial features, sterile background, generic stock photography, cluttered composition",
-    "category": "Realism · Cinematic & Candid",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/poetic-atmospheric-glamour-albi-×-bevacqua.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed"
-  },
-  {
-    "id": "alessio-albi-atmospheric-natural-portrait",
-    "name": "Alessio Albi — Atmospheric Natural Portrait",
-    "positive": "atmospheric natural portrait photography, poetic environmental portrait, authentic adult facial features, natural skin texture, soft available light, subtle directional illumination, atmospheric perspective, environmental framing, organic foreground elements, delicate natural shadows, intimate expression, unposed body language, shallow depth of field, soft background separation, restrained color grading, natural cinematic composition, quiet emotional atmosphere, realistic photographic materials, subtle film grain, elegant fine art portrait",
-    "negative": "anime illustration, comic linework, cel shading, glossy CGI, plastic skin, excessive beauty retouching, artificial studio lighting, hard fashion flash, extreme saturation, heavy HDR, exaggerated facial proportions, theatrical posing, artificial bokeh, excessive bloom, oversharpening, sterile commercial portrait, cluttered background, unnatural skin colors",
-    "category": "Realism · Cinematic & Candid",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/alessio-albi-atmospheric-natural-portrait.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed"
-  },
-  {
-    "id": "franco-belgian-bd-25-anime",
-    "name": "Franco-Belgian BD 2.5 — Anime",
-    "positive": "franco-belgian bd 2.5 anime, refined adult anime character design, preserved anime facial identity, expressive large anime eyes, delicate compact nose, soft facial features, voluminous structured anime hair, clean european bande dessinée linework, crisp variable-weight contours, refined ligne claire influence, rich dimensional shading, selective realism, subtle integrated halftone texture, realistic skin and fabric materials, natural adult anatomy, cinematic lighting, controlled atmospheric depth, polished european comic illustration, elegant color separation, refined graphic readability",
-    "negative": "westernized facial features, generic european comic face, photorealism, american superhero comic style, heavy muscular comic anatomy, flat cel-only shading, excessive painterly blending, glossy CGI, plastic skin, childish proportions, chibi, distorted anatomy, muddy linework, excessive halftone, exaggerated manga effects, weak facial identity, excessive realistic facial reconstruction",
-    "category": "Graphic Glam · 2.5D",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/franco-belgian-BD-2.5-anime.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed-from-canonical-definition"
-  },
-  {
-    "id": "cinematic-editorial-anime-25-crisp-glamour-realism",
-    "name": "Cinematic Editorial Anime 2.5 — Crisp Glamour Realism",
-    "positive": "cinematic editorial anime 2.5, crisp glamour realism, refined adult anime character design, preserved anime facial identity, crisp refined anime linework, controlled variable line weight, clean silhouette contours, rich dimensional cel shading, selective photographic realism, realistic skin and fabric materials, natural adult anatomy, sophisticated glamour posing, candid editorial gestures, cinematic editorial lighting, controlled chromatic contrast, realistic environmental depth, photographic composition, atmospheric perspective, polished anime rendering, rich shades, refined facial modeling, sharp selective details",
-    "negative": "full photorealism, westernized anime face, generic fashion photography, heavy american comic outlines, flat cel-only shading, excessive airbrushing, plastic skin, glossy CGI, exaggerated fashion anatomy, distorted proportions, excessive bloom, artificial glamour lighting, muddy gradients, soft blurry linework, excessive painterly rendering, oversaturated skin, stiff posing, cluttered composition",
-    "category": "Anime · Cinematic & Glamour",
-    "preview": "https://raw.githubusercontent.com/ndivia/endy-image-studio-data/refs/heads/main/style-previews/cinematic-editorial-anime-2.5-crisp-glamour-realism.webp?v=1",
-    "labels": [],
-    "formulaStatus": "reconstructed-positive-core-defined"
   }
 ];
